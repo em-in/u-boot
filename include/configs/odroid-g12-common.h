@@ -29,7 +29,7 @@
 #define CONFIG_VDDEE_SLEEP_VOLTAGE		731	/* VDDEE suspend voltage */
 
 /* configs for CEC */
-#define CONFIG_CEC_OSD_NAME			"AML_TV"
+#define CONFIG_CEC_OSD_NAME			"ODROID-N2"
 #define CONFIG_CEC_WAKEUP
 
 /* SMP Definitinos */
